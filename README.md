@@ -1,1 +1,1 @@
-# index
+https://dhatchayaniv.github.io/maphotspot/
